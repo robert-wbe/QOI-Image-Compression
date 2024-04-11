@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7E0E5F6A-7A46-44B6-AD7A-BAAA9FA71CBC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0FBFEC3D-D5B9-45EB-A3F4-B8EA739A98FE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Image Compression/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "269"
+            endingLineNumber = "269"
+            landmarkName = "decode(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0FBFEC3D-D5B9-45EB-A3F4-B8EA739A98FE - cd596f6b032efde0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Image_Compression.QOI.decode(Swift.Array&lt;Swift.UInt8&gt;) -&gt; Swift.Array&lt;Swift.Array&lt;Image_Compression.Pixel&gt;&gt;"
+                  moduleName = "Image Compression"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robertwiebe/Documents/coding/XCode/Image%20Compression/Image%20Compression/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "292"
+                  endingLineNumber = "292">
+               </Location>
+               <Location
+                  uuid = "0FBFEC3D-D5B9-45EB-A3F4-B8EA739A98FE - cd596f6b032efdc3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Image_Compression.QOI.decode(Swift.Array&lt;Swift.UInt8&gt;) -&gt; Swift.Array&lt;Swift.Array&lt;Image_Compression.Pixel&gt;&gt;"
+                  moduleName = "Image Compression"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robertwiebe/Documents/coding/XCode/Image%20Compression/Image%20Compression/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "291"
+                  endingLineNumber = "291">
+               </Location>
+               <Location
+                  uuid = "0FBFEC3D-D5B9-45EB-A3F4-B8EA739A98FE - cd596f6b032efdc3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static Image_Compression.QOI.decode(Swift.Array&lt;Swift.UInt8&gt;) -&gt; Swift.Array&lt;Swift.Array&lt;Image_Compression.Pixel&gt;&gt;"
+                  moduleName = "Image Compression"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robertwiebe/Documents/coding/XCode/Image%20Compression/Image%20Compression/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "291"
+                  endingLineNumber = "291">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

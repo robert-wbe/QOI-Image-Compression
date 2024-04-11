@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "NSImage.Iterator.next():ContentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static QOI.encode(_:):ContentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "smlCode + UInt8(df.dr+2) &lt;&lt; 4 + UInt8(df.dg+2) &lt;&lt; 2 + UInt8(df.db+2)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static QOI.decode(_:):ContentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pixel.hash()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
